@@ -57,3 +57,4 @@ const dataTypes = ["number", "string", "Boolean"]
 
 // a) Your answer: I expected it not to run or return a value because of ther space in typeod dataTypes
 // b) Verify and explain: The code returned "number"  this is because of the typeof operator
+

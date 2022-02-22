@@ -66,3 +66,4 @@ Research and define the following terms to the best of your ability.
 4. Method: JavaScript methods are actions that can be performed on objects
 
 5. Classes:Classes are a template for creating objects
+

@@ -93,6 +93,7 @@ const subtr = (number1, number2) => {
         return number2 - number1
     }
 }
-//need to input the input numbers and have them returned
+//need to input the input numbers so that they can be returned
 console.log(subtr(58, 100))
 console.log(subtr(27, 24))
+
